@@ -9,6 +9,11 @@
     	<artifactId>selenium-java</artifactId>
    		 <version>3.141.59</version>
   </dependency>
+    <dependency>
+	  <groupId>com.github.adiralashiva8</groupId>
+	  <artifactId>testng-metrics</artifactId>
+	  <version>1.5</version>
+  </dependency>
   <dependency>
 	  <groupId>com.github.adiralashiva8</groupId>
 	  <artifactId>testng-metrics</artifactId>
